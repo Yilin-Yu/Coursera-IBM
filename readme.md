@@ -102,7 +102,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~Python for Data Science, AI & Development~~
 
-- Python Project for Data Science
+~~- Python Project for Data Science~~
 
 - ~~Databases and SQL for Data Science with Python~~
 
@@ -132,7 +132,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~Python for Data Science, AI & Development~~
 
-- Python Project for Data Science
+~~- Python Project for Data Science~~
 
 - Statistics for Data Science with Python
 
@@ -148,7 +148,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~Python for Data Science, AI & Development~~
 
-- Python Project for Data Science
+~~- Python Project for Data Science~~
 
 - ~~Databases and SQL for Data Science with Python~~
 
