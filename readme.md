@@ -15,7 +15,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 6. ~~[Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science)~~
 
-7. [Data Science Fundamentals with Python and SQL Specialization](https://www.coursera.org/specializations/data-science-fundamentals-python-sql)
+7. ~~[Data Science Fundamentals with Python and SQL Specialization](https://www.coursera.org/specializations/data-science-fundamentals-python-sql)~~
 
 8. [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
@@ -102,7 +102,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~Python for Data Science, AI & Development~~
 
-~~- Python Project for Data Science~~
+- ~~Python Project for Data Science~~
 
 - ~~Databases and SQL for Data Science with Python~~
 
@@ -126,15 +126,15 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~Databases and SQL for Data Science with Python~~
 
-## Data Science Fundamentals with Python and SQL Specialization (3/5)
+## Data Science Fundamentals with Python and SQL Specialization (2024.11.12)
 
 - ~~[Tools for Data Science](./Tools%20for%20Data%20Science/)~~
 
 - ~~Python for Data Science, AI & Development~~
 
-~~- Python Project for Data Science~~
+- ~~Python Project for Data Science~~
 
-- Statistics for Data Science with Python
+- ~~Statistics for Data Science with Python~~
 
 - ~~Databases and SQL for Data Science with Python~~
 
@@ -148,7 +148,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~Python for Data Science, AI & Development~~
 
-~~- Python Project for Data Science~~
+- ~~Python Project for Data Science~~
 
 - ~~Databases and SQL for Data Science with Python~~
 
