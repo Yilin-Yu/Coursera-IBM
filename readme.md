@@ -92,7 +92,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - The Business Intelligence (BI) Analyst Capstone Project
 
-## IBM Data Analyst Professional Certificate (4/11)
+## IBM Data Analyst Professional Certificate (5/11)
 
 - Introduction to Data Analytics
 
@@ -106,7 +106,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~Databases and SQL for Data Science with Python~~
 
-- Data Analysis with Python
+- ~~Data Analysis with Python~~
 
 - Data Visualization with Python
 
@@ -138,7 +138,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~Databases and SQL for Data Science with Python~~
 
-## IBM Data Science Professional Certificate (5/12)
+## IBM Data Science Professional Certificate (6/12)
 
 - ~~What is Data Science?~~
 
@@ -152,7 +152,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~Databases and SQL for Data Science with Python~~
 
-- Data Analysis with Python
+- ~~Data Analysis with Python~~
 
 - Data Visualization with Python
 
