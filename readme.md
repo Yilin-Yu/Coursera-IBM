@@ -92,7 +92,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - The Business Intelligence (BI) Analyst Capstone Project
 
-## IBM Data Analyst Professional Certificate (5/11)
+## IBM Data Analyst Professional Certificate (7/11)
 
 - Introduction to Data Analytics
 
@@ -102,13 +102,13 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~Python for Data Science, AI & Development~~
 
-- ~~Python Project for Data Science~~
+- ~~[Python Project for Data Science](./Python%20Project%20for%20Data%20Science/)~~
 
 - ~~Databases and SQL for Data Science with Python~~
 
-- ~~Data Analysis with Python~~
+- ~~[Data Analysis with Python](./Data%20Analysis%20with%20Python/)~~
 
-- Data Visualization with Python
+- ~~[Data Visualization with Python](./Data%20Visualization%20with%20Python/)~~
 
 - IBM Data Analyst Capstone Project
 
@@ -132,13 +132,13 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~Python for Data Science, AI & Development~~
 
-- ~~Python Project for Data Science~~
+- ~~[Python Project for Data Science](./Python%20Project%20for%20Data%20Science/)~~
 
 - ~~Statistics for Data Science with Python~~
 
 - ~~Databases and SQL for Data Science with Python~~
 
-## IBM Data Science Professional Certificate (6/12)
+## IBM Data Science Professional Certificate (8/12)
 
 - ~~What is Data Science?~~
 
@@ -148,13 +148,13 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~Python for Data Science, AI & Development~~
 
-- ~~Python Project for Data Science~~
+- ~~[Python Project for Data Science](./Python%20Project%20for%20Data%20Science/)~~
 
 - ~~Databases and SQL for Data Science with Python~~
 
-- ~~Data Analysis with Python~~
+- ~~[Data Analysis with Python](./Data%20Analysis%20with%20Python/)~~
 
-- Data Visualization with Python
+- ~~[Data Visualization with Python](./Data%20Visualization%20with%20Python/)~~
 
 - Machine Learning with Python
 
