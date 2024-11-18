@@ -138,7 +138,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~Databases and SQL for Data Science with Python~~
 
-## IBM Data Science Professional Certificate (8/12)
+## IBM Data Science Professional Certificate (9/12)
 
 - ~~What is Data Science?~~
 
@@ -156,7 +156,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~[Data Visualization with Python](./Data%20Visualization%20with%20Python/)~~
 
-- Machine Learning with Python
+- ~~[Machine Learning with Python](./Machine%20Learning%20with%20Python/)~~
 
 - Applied Data Science Capstone
 
