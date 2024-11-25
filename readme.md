@@ -19,15 +19,17 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 8. [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
-9. ~~[Data Engineering Foundations Specialization](https://www.coursera.org/specializations/data-engineering-foundations)~~
+9. ~~[Applied Data Science Specialization](https://www.coursera.org/specializations/applied-data-science)~~
 
-10. [NoSQL, Big Data, and Spark Foundations Specialization](https://www.coursera.org/specializations/nosql-big-data-and-spark-foundations)
+10. ~~[Data Engineering Foundations Specialization](https://www.coursera.org/specializations/data-engineering-foundations)~~
 
-11. [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)
+11. [NoSQL, Big Data, and Spark Foundations Specialization](https://www.coursera.org/specializations/nosql-big-data-and-spark-foundations)
 
-12. ~~[BI Foundations with SQL, ETL and Data Warehousing Specialization](https://www.coursera.org/specializations/bi-foundations-sql-etl-data-warehouse)~~
+12. [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)
 
-13. ~~[IBM Data Warehouse Engineer Professional Certificate](https://www.coursera.org/professional-certificates/data-warehouse-engineering)~~
+13. ~~[BI Foundations with SQL, ETL and Data Warehousing Specialization](https://www.coursera.org/specializations/bi-foundations-sql-etl-data-warehouse)~~
+
+14. ~~[IBM Data Warehouse Engineer Professional Certificate](https://www.coursera.org/professional-certificates/data-warehouse-engineering)~~
 
 
 ## Data Analysis and Visualization Foundations Specialization (2024.10.23)
@@ -138,7 +140,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~Databases and SQL for Data Science with Python~~
 
-## IBM Data Science Professional Certificate (9/12)
+## IBM Data Science Professional Certificate (10/12)
 
 - ~~What is Data Science?~~
 
@@ -158,11 +160,23 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~[Machine Learning with Python](./Machine%20Learning%20with%20Python/)~~
 
-- Applied Data Science Capstone
+- ~~[Applied Data Science Capstone](./Applied%20Data%20Science%20Capstone/)~~
 
 - Generative AI: Elevate Your Data Science Career
 
 - Data Scientist Career Guide and Interview Preparation
+
+## Applied Data Science Specialization (2024.11.26)
+
+- ~~Python for Data Science, AI & Development~~
+
+- ~~[Python Project for Data Science](./Python%20Project%20for%20Data%20Science/)~~
+
+- ~~[Data Analysis with Python](./Data%20Analysis%20with%20Python/)~~
+
+- ~~[Data Visualization with Python](./Data%20Visualization%20with%20Python/)~~
+
+- ~~[Applied Data Science Capstone](./Applied%20Data%20Science%20Capstone/)~~
 
 ## Data Engineering Foundations Specialization (2024.5.4)
 
