@@ -17,7 +17,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 7. ~~[Data Science Fundamentals with Python and SQL Specialization](https://www.coursera.org/specializations/data-science-fundamentals-python-sql)~~
 
-8. [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+8. ~~[IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)~~
 
 9. ~~[Applied Data Science Specialization](https://www.coursera.org/specializations/applied-data-science)~~
 
@@ -140,7 +140,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~Databases and SQL for Data Science with Python~~
 
-## IBM Data Science Professional Certificate (10/12)
+## IBM Data Science Professional Certificate (2024.11.28)
 
 - ~~What is Data Science?~~
 
@@ -162,9 +162,9 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~[Applied Data Science Capstone](./Applied%20Data%20Science%20Capstone/)~~
 
-- Generative AI: Elevate Your Data Science Career
+- ~~Generative AI: Elevate Your Data Science Career~~
 
-- Data Scientist Career Guide and Interview Preparation
+- ~~Data Scientist Career Guide and Interview Preparation~~
 
 ## Applied Data Science Specialization (2024.11.26)
 
