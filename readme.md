@@ -192,7 +192,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 ## NoSQL, Big Data, and Spark Foundations Specialization (0/3)
 
-- Introduction to NoSQL Databases
+- ~~[Introduction to NoSQL Databases](./Introduction%20to%20NoSQL%20Databases/)~~
 
 - Introduction to Big Data with Spark and Hadoop
 
@@ -220,7 +220,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - ~~[BI Dashboards with IBM Cognos Analytics and Google Looker](./BI%20Dashboards%20with%20IBM%20Cognos%20Analytics%20and%20Google%20Looker/)~~
 
-- Introduction to NoSQL Databases
+- ~~[Introduction to NoSQL Databases](./Introduction%20to%20NoSQL%20Databases/)~~
 
 - Introduction to Big Data with Spark and Hadoop
 
