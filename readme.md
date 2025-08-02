@@ -196,7 +196,7 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - Introduction to Big Data with Spark and Hadoop
 
-- Machine Learning with Apache Spark
+- ~~[Machine Learning with Apache Spark](./Machine%20Learning%20with%20Apache%20Spark/)~~
 
 ## IBM Data Engineering Professional Certificate (10/16)
 
@@ -224,9 +224,9 @@ This repository contains the assignments I completed while pursuing several IBM 
 
 - Introduction to Big Data with Spark and Hadoop
 
-- Machine Learning with Apache Spark
+- ~~[Machine Learning with Apache Spark](./Machine%20Learning%20with%20Apache%20Spark/)~~
 
-- Data Engineering Capstone Project
+- ~~[Data Engineering Capstone Project](./Data%20Engineering%20Capstone%20Project/)~~
 
 - Generative AI: Elevate your Data Engineering Career
 
